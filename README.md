@@ -7,9 +7,13 @@ Are you running short of datasets which you need to train for your computer visi
 1. [Suryan](https://github.com/suryan-s)
 2. [Arjun](https://github.com/arjunindia)
 ## Link to product walkthrough
-[link to video](Link Here)
+<!-- [link to video](Link Here) -->
+- Would be updated soon
 ## How it Works ?
 
+![image](https://github.com/suryan-s/Expandify/assets/76394506/416062bb-2d55-4537-a98a-5801bbad337b)
+- When dataset is provided as zip file, the images could be augmented using different methds like flipping, blurring, brightening, shearing etc such that more sample images could be generated.
+- Currently the project supports only YOLOV8 based dataset / annotations / labels.
 
 ## Libraries used
 - Pynecone
@@ -23,5 +27,5 @@ To run Expandify, perform the following steps:
 
 1. Open a terminal or command prompt.
 2. Navigate to the Expandify project directory.
-3. Execute the command 'pc run' to start the application after setting up the environment using the requirements.txt.
-4. Access the application through your web browser at http://localhost:3000.
+3. Execute the command `pc run` to start the application after setting up the environment using the requirements.txt.
+5. Access the application through your web browser at http://localhost:3000.
