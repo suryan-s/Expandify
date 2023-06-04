@@ -12,6 +12,10 @@ Are you running short of datasets which you need to train for your computer visi
 ## How it Works ?
 
 ![image](https://github.com/suryan-s/Expandify/assets/76394506/416062bb-2d55-4537-a98a-5801bbad337b)
+![Screenshot 2023-06-04 234656](https://github.com/suryan-s/Expandify/assets/76394506/13ef130c-b793-427c-9f38-f7fe77a02250)
+![Screenshot 2023-06-04 234724](https://github.com/suryan-s/Expandify/assets/76394506/10cf36f0-51e5-4e56-a316-3a10a5ad7364)
+![Screenshot 2023-06-04 234753](https://github.com/suryan-s/Expandify/assets/76394506/3d52bb5e-25f5-4408-b84c-ce1b69fa3b65)
+
 - When dataset is provided as zip file, the images could be augmented using different methds like flipping, blurring, brightening, shearing etc such that more sample images could be generated.
 - Currently the project supports only YOLOV8 based dataset / annotations / labels.
 
