@@ -9,7 +9,8 @@ Are you running short of datasets which you need to train for your computer visi
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-- Working video would be updated once its ready
+
+
 ## Libraries used
 - Pynecone
 - OpenCV
